@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desafio Digital Business</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login" translatable="false">Login</string>
+    <string name="error_username">Username should have a value</string>
+    <string name="error_password">Password should have a value</string>
+    <string name="error_unexpected">Unexpected Error</string>
+    <string name="label_available">Available</string>
+    <string name="label_limit">Limit</string>
+    <string name="label_used">Used</string>
+    <string name="label_statement">Statement</string>
+    <string name="format_quota">Quotas %s</string>
+    <string name="title_error">Error</string>
+    <string name="action_ok" translatable="false">OK</string>
+</resources>

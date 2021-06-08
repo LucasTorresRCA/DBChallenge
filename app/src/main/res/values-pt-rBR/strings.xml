@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desafio Digital Business</string>
+    <string name="hint_username">Usuário</string>
+    <string name="hint_password">Senha</string>
+    <string name="error_username">Usuário não pode estar em branco</string>
+    <string name="error_password">Senha não pode estar em branco</string>
+    <string name="error_unexpected">Erro inesperado</string>
+    <string name="label_available">Disponível</string>
+    <string name="label_limit">Limite</string>
+    <string name="label_used">Utilizado</string>
+    <string name="label_statement">Extrato de Compras</string>
+    <string name="format_quota">Parcelas %s</string>
+    <string name="title_error">Erro</string>
+</resources>
